@@ -11,4 +11,4 @@ To view a mockup of the Dark Mode stylesheet, click [here](https://rerdavies.git
 
 Note that Chrome on Windows does not have a Chrome-specific setting for Dark Mode. To view the page in dark mode on Windows, you must enable dark mode in Windows settings. Start the Windows Settings app, and search for "Dark Mode". You have two choices: "Turn on dark mode for apps", or "Turn on dark mode systemwide". Either will work. 
 
-Whereas I, Robin Davies, sole author of the changes wish to provide the changes to Y Combinator for use without any enncumbrance or restriction, I therefore assign all copyrights and artistic rights for the changes to Y Combinator, including the right to use the modified CSS as Y Combinator see fit.
+Whereas I, Robin Davies, sole author of the changes, wish to provide the changes to Y Combinator for use without any encumbrance or restriction, I therefore assign all copyrights and artistic rights for the changes to Y Combinator, including the right to use the modified CSS as Y Combinator see fit.
