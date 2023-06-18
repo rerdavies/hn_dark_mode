@@ -664,16 +664,6 @@ only screen and (min-device-pixel-ratio: 2) {
     color: #828282;
   }
 
-  .votearrow {
-    background: url("triangle.svg"), linear-gradient(transparent, transparent) no-repeat;
-  }
-
-  @media only screen and (-webkit-min-device-pixel-ratio: 2),
-  only screen and (min-device-pixel-ratio: 2) {
-    .votearrow {
-      background-image: url("triangle.svg"), linear-gradient(transparent, transparent);
-    }
-  }
 
 
   #hnmain {
